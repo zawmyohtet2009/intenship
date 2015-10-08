@@ -1,2 +1,2 @@
 This is a new file creation, named abc.txt.
-Second line adding.
+git checkout commit 'abc.txt'.
