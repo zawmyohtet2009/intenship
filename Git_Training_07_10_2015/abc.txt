@@ -1,3 +1,2 @@
 This is a new file creation, named abc.txt.
 git checkout commit 'abc.txt'.
-This will be revert back.
